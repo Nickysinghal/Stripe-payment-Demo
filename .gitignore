@@ -1,0 +1,28 @@
+# Virtual environments
+myvenv/
+venv/
+env/
+.venv/
+
+# Environment files (secrets)
+.env
+.env.*
+.env.local
+.envrc
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Build / packaging
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# IDEs / editors
